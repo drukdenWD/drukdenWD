@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drukdenWD
+- 👋 Hi, I’m Drukden Wangchuk Dorji. I am currently pursuing my Bachelor's degree in computer science with Blockchain specialization at Gyalpozhing College of Information Technology
 - 👀 I’m interested in web3 development
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on freelancing
